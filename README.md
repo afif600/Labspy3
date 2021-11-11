@@ -3,11 +3,11 @@
 
 <li> Program Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5  </li>
 
-![gambar 1](screenshot/f.png)
+![gambar 1](screenshot/modul3lat1_1.png)
 
 <li> Output </li>
 
-![gambar 2](screenshot/f.png)
+![gambar 2](screenshot/modul3lat1_2.png)
 
 <li> Penjelasan: </li>
 1. Import module random untuk membuat bilangan acak <p>
@@ -40,11 +40,11 @@ print("data ke:",(i+1), "=>",n)
 ## Latihan 2
 <li> Program Sederhana Menentukan Bilangan Terbesar, Dari Data N Yang Diinputkan </li>
 
-![gambar 3](screenshot/f.png)
+![gambar 3](screenshot/modul3lat2_1.png)
 
 <li> Output </li>
 
-![gambar 4](screenshot/f.png)
+![gambar 4](screenshot/modul3lat2_2.png)
 
 <li> Penjelasan: </li>
 1. Deklarasi variabel <p>
@@ -88,11 +88,11 @@ print("Bilangan Terbesar Adalah", n)
 ## Tugas Pratikum 3
 <li> Menghitung Total Keuntungan </li>
 
-![gambar 5](screenshot/f.png)
+![gambar 5](screenshot/tugasp3_1.png)
 
 <li> Output </li>
 
-![gambar 6](screenshot/f.png)
+![gambar 6](screenshot/tugasp3_2.png)
 
 <li> Penjelasan: </li>
 1. Dari variabel laba terdapat list modal dari bulan pertama hingga akhir <p>
